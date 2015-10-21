@@ -31,7 +31,17 @@
 # Pick the rest of the values yourself. :-)
 
 
-people = {}
+print('KYKURIKU')
+
+people = { '123': {'name' : 'Mile', 'surname' : 'Panika', 'age' : 31,
+'weight' : 88.8 , 'is_married' : True, 'children' : [{'name' : 'Dzoko',
+'surname' : 'Panika', 'age' : 13, 'weight' : 45.5 , 'is_married' : False,
+'children' : []}, {'name' : 'Nikolina', 'surname' : 'Panika', 'age' : 5,
+'weight' : 37.7 , 'is_married' : False, 'children' : []}]},
+'456': {'name' : 'Toso', 'surname' : 'Malerot', 'age' : 55,
+'weight' : 93.2 , 'is_married' : False, 'children' : [{'name' : 'Bapco',
+'surname' : 'Bapcovski', 'age' : 21, 'weight' : 101.1 , 'is_married' : False,
+'children' : []}] }}
 # Delete this comment and WRITE YOUR CODE HERE.
 
 
