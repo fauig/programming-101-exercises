@@ -6,8 +6,8 @@
 def maximum(lst):
     m = 0.0
     for element in lst:
-        if element>m:
-            m=element
+        if a>m:
+            m=a
     return m
 
 

@@ -16,6 +16,7 @@
 
 
 def count(lst, el):
+    def count(lst, el):
     najden = 0
     for e in lst:
         if e == el:

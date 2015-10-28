@@ -82,3 +82,8 @@ for e in msgs:
     print(poraka)
     poraka =''
 
+for prv in msgs:   
+    broj_poraki+=1
+
+print(broj_poraki)
+
